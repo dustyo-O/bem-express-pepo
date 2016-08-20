@@ -1,0 +1,12 @@
+.tweet__button{
+    padding: 0;
+    margin-right: 10px;
+}
+
+.tweet__button .icon {
+    width: 15px;
+    height: 15px;
+    background-size: cover;
+    opacity: 0.5;
+    margin-right: 5px;
+}
